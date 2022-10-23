@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog &#8211; Amine Mohamed Aboussalah</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 01 May 2021 09:35:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>My biography</title>
+		<link>./../../../feugiat-scelerisque-varius-morbi/index.html</link>
+					<comments>./../../../feugiat-scelerisque-varius-morbi/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Amine]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 15:34:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://1-blog-site.local/?p=26</guid>
+
+					<description><![CDATA[<p>In high school, I wanted to be a professional soccer player. I was so passionate about that sport that I neglected school and got in trouble with my father, an engineering Professor, who forbade me from playing soccer unless I finished the year at the top of my class. This punishment turned my passion for &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../feugiat-scelerisque-varius-morbi/index.html"> <span class="screen-reader-text">My biography</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../feugiat-scelerisque-varius-morbi/index.html">My biography</a> appeared first on <a rel="nofollow" href="./../../../index.html">Amine Mohamed Aboussalah</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In high school, I wanted to be a professional soccer player. I was so passionate about that sport that I neglected school and got in trouble with my father, an engineering Professor, who forbade me from playing soccer unless I finished the year at the top of my class. This punishment turned my passion for sports into an obsession with science. I was forced to improve in a competitive environment, which introduced me to the beauty of mathematics and physics, and led me to discussions with my father about his readings, which included J. Tarjemanov’s book “The Silver Horse-shoe” on non-Euclidian geometry. This book covered the mathematical underpinning of general relativity and replaced my soccer dreams with space science and engineering.</p>
+
+
+
+<p>These events led me to pursue joint Bachelor and Master degrees in engineering at “Polytechnique Montréal” and “National Higher French Institute of Aeronautics and Space” (SUPAERO) in Toulouse, France. I studied Applied Mathematics of Complex Systems at grande école SUPAERO and specialized in Engineering Physics at Polytechnique. I thus had the chance to acquire a solid grounding in advanced PDE&#8217;s, multi-scale modeling, and optimization. Among others, I learned about the use of Navier-Stokes equations and conformal mapping methods in advanced aerodynamics, Hamilton-Jacobi and Gauss perturbation equations in astrodynamics, and some differential geometric concepts in general relativity.</p>
+
+
+
+<p>During my last year at SUPAERO, I had the opportunity to be involved in an international research collaboration that aims to probe the internal structure of the planet Mars, and that is related to NASA’s upcoming InSight mission. My project was to simulate the temperature field in a seismometer and my tasks were to estimate the spectral power density of the temperature signal and then obtain an accurate numerical solution of the dynamical heat equation that arises in this specific problem. I’m happy to say that this work is currently being extended by another SUPAERO-NASA research team.</p>
+
+
+
+<p>After graduating from SUPAERO, I worked as a research assistant at the Oncopole medical center in Toulouse in the field of medical image processing in radiation oncology. My role was to evaluate the performance of automatic organ identification algorithms for adaptive radiotherapy by investigating discrete and continuous optimization methods such as the Levenberg-Marquardt algorithm, graph-based, and belief propagation methods. This was my first contact with machine learning and it inspired me to undertake graduate studies in this field.</p>
+
+
+
+<p>My experience at the Oncopole encouraged me to start, in 2016, graduate studies in Data Science at the Applied Mathematics Department of Polytechnique Montréal under the co-supervision of Professor Dominique Orban and Professor Andrea Lodi, where I had the chance to initiate two research projects. The first one grew-out of a term project for an optimization course “Numerical Methods of Optimization and Control” that I had taken with Professor Dominique Orban, and the results were published in the University of Montreal’s Operations Research “Cahiers du GERAD” letters. In this joint work with my former classmate C. Neal, we were inspired by an approach proposed by Professor R. J. Vanderbei (Princeton) for the prediction of local warming. The main idea was to incorporate temperature correlations into the main model using a first-order Markov chain, and we also presented a forward algorithm which samples from the Laplace distribution to fill in the present missing data, before ending the paper with temperature predictions up to the year 2040 using a Neural Network approach.</p>
+
+
+
+<p>I also had the chance to work with Professor Dominique Orban on a second project that piqued my curiosity related to the simulation of black holes and was inspired by Professor K. Thorne’s (Nobel Prize-winning physicist) paper on the movie “Interstellar.” The purpose was to use techniques from optimal control to find photon trajectories, instead of working with discretized equations of motion as is traditionally done by physicists. More precisely, the solution of the discretized Euler-Lagrange equations do not necessarily satisfy the least action principle, so instead, I discretized the optimization problem and used Pontryagin’s Minimum Principle theorem to obtain the geodesics describing the photon trajectories. After writing to Professor Kip Thorne (Caltech) and his colleague Professor Richard Price (MIT) about this approach, they expressed interest and asked for a copy of the draft paper.</p>
+
+
+
+<p>Currently, I am pursuing a Ph.D. degree in Operations Research and Artificial Intelligence in the Department of Mechanical and Industrial Engineering (MIE) at the University of Toronto (UofT). My thesis topic is “<em>Exploiting Symmetry in Real-World Reinforcement Learning</em>.” My goal is to use the financial application domain as a challenging real-world environment in which to advance reinforcement learning. My research involves the application of theoretical mathematical principles such as the theory of dynamical systems, abstract algebra and group theory, representation theory and topology, and also involves developing and testing machine learning algorithms using Python.</p>
+
+
+
+<p>Machine learning (ML) is a statistical data analysis method that automates analytical model building. It is based on the idea that computer systems can learn from data, identify patterns and make decisions with minimal human intervention. ML systems have been applied successfully to many real-world problems that previously required manually developed algorithms. An area of ML, called reinforcement learning (RL) is the most appropriate ML approach for the portfolio management (PM) problem because of its ability to solve sequential decision-making problems, which is a key aspect of PM systems. Specifically, RL aims to create software agents that interact with their environment and learn how to optimally perform a series of decisions so as to maximize some notion of cumulative reward, and it is considered an active research area with many applications, including finance.</p>
+
+
+
+<p>RL has been proven useful in domains such as game playing and robotics. However, the application of RL to PM is a challenging task due to several characteristics of the financial domain which include: 1) the relaxation of the Markov property which is not suitable for path-dependent problems, 2) the design of a reward function that is financially meaningful, 3) the treatment of transaction costs, where the RL agent has to always incur a penalty regardless of the action taken (good or bad), 4) the incorporation of financial constraints, 5) the multi-type and multi-frequency nature of financial data and the challenge of their feature combination, 6) the lack of a RL framework supporting cross-sectional analysis needed to complete the trend analysis point of view, 7) the importance of the interpretability of the investment policy, 8) dealing with the non-stationarity and the partial observability nature of financial markets, 9) the state-space visitation and the lack of exploration, 10) the non-stationary character of the policy in the time-horizon setting unlike the infinite-horizon one commonly used in game playing applications, and 11) the risk-awareness of the RL policy. These problem characteristics have not been studied sufficiently in the general framework of RL and, more specifically, in relation to RL in finance. We aim to leverage operation research and mathematical finance methodologies to tackle these issues and help to make intelligent, optimal RL decisions. My first published paper “Continuous Control with Stacked Deep Dynamic Recurrent Reinforcement Learning for Portfolio Optimization” addresses issues 1 to 4. A second paper “What is the Value of Cross-Sectional Approach to Deep Reinforcement Learning?” in preparation addresses issues 5 to 10. These two papers lay the foundation for RL in finance. We found issue 8 to be the most intriguing and it became the focus of our work. Our next goal is to dig deeper into exploiting topological characteristics such us symmetry in financial time series data.</p>
+
+
+
+<p>One-dimensional time series (1D-TS) representations do not expose the co-occurrent events and the latent states of the data in a way that ML can easily recognize. For financial data, there are patterns at various scales that can be learned to improve performance. We will examine the hypothesis that the concept of symmetry augmentation is fundamentally linked to learning. Our research focus is on the augmentation of symmetry embedded in 1D-TS. Motivated by the duality between 1D-TS and networks, we will augment the symmetry by converting 1D-TS into three 2-dimensional representations: temporal correlation (GAF), transition dynamics (MTF), and recurrent events (RP). This conversion does not require a priori knowledge of the types of symmetries hidden in the 1D-TS. We will then exploit the group equivariance property of CNNs to learn the hidden symmetries in the augmented 2-dimensional data. We will show that such conversion only increases the amount of symmetry, which may lead to more efficient learning. Specifically, we will prove that a direct sum based augmentation will never decrease the amount of symmetry. We will also attempt to measure the amount of symmetry in the original 1D-TS and augmented representations using the notion of persistent homology, which should reveal symmetry increases after augmentation.</p>
+
+
+
+<p>In addition to my thesis research, I am interested in an econophysics problem, which involves using quantum field theory and quantum computing to study financial networks and systemic risk. Modern financial markets are highly interdependent. These interdependencies consist of loans, holding shares, and other liabilities between institutions in the financial network. The failure of an organization can create a shock that can propagate through the network, spreading financial contagion and leading to additional failures. In order to understand and manage this systemic risk, we need a very large network model. However, handling large realistic networks with many interactions is a NP-hard combinatorial optimization problem. Last summer, I participated in the Creative Destruction Lab Quantum Bootcamp at the Rotman Business School at UofT, where I developed an algorithm for systemic risk evaluation. We used a mixed-integer linear program (MILP) to optimize the financial network structure to reduce the number of cascade failures due to shocks and hence better mitigate systemic risk. We optimized a seventy-node network with a D-Wave quantum computer. This size of problem is challenging with standard computers and quantum computing offers the possibility of scaling to much larger problems in the future. I plan to continue working in this area and want to develop a theory of quantum systemic risk.</p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="./../../../feugiat-scelerisque-varius-morbi/index.html">My biography</a> appeared first on <a rel="nofollow" href="./../../../index.html">Amine Mohamed Aboussalah</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../feugiat-scelerisque-varius-morbi/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>À la découverte d’un génie oublié Ibn Al-Haytham</title>
+		<link>./../../../magna-eget-est-lorem-ipsum-dolor-sit/index.html</link>
+					<comments>./../../../magna-eget-est-lorem-ipsum-dolor-sit/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Amine]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 11:33:46 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://1-blog-site.local/?p=24</guid>
+
+					<description><![CDATA[<p>Une intelligence hybride  « If learning the truth is the scientist&#8217;s goal, then he must make himself the enemy of all that he reads » — Ibn Al-Haytham Il aurait développé un théorème considéré comme étant la prémisse de nombreux théorèmes établis à partir de la fin du 17e et 18e siècles, en particulier le &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../magna-eget-est-lorem-ipsum-dolor-sit/index.html"> <span class="screen-reader-text">À la découverte d’un génie oublié Ibn Al-Haytham</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../magna-eget-est-lorem-ipsum-dolor-sit/index.html">À la découverte d’un génie oublié Ibn Al-Haytham</a> appeared first on <a rel="nofollow" href="./../../../index.html">Amine Mohamed Aboussalah</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h4><strong>Une intelligence hybride</strong></h4>
+
+
+
+<blockquote class="wp-block-quote"><p><strong> « If learning the truth is the scientist&#8217;s goal, then he must make himself the enemy of all that he reads » </strong></p><cite><strong><strong>— Ibn Al-Haytham</strong></strong></cite></blockquote>
+
+
+
+<h4>Il aurait développé un théorème considéré comme étant la prémisse de nombreux théorèmes établis à partir de la fin du 17e et 18e siècles, en particulier le théorème de Wilson et les travaux sur les carrés magiques.</h4>
+
+
+
+<p class="has-text-align-center">Cet article a été rédigé par AMINE MOHAMED ABOUSSALAH,</p>
+
+
+
+<div id="yui_3_17_2_1_1619258407397_91" class="wp-block-image"><figure class="aligncenter"><img src="https://images.squarespace-cdn.com/content/v1/5e2f77eaa4a8dc3ec8601bf6/1594659211932-8TNTOH3CXWQ4GHJLDHUZ/ke17ZwdGBToddI8pDm48kPE-WJisZQP6Ez0bc339D25Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwC5CLGgo_9swea93JV3FIyiFAhceeuW_h-XVZrLs0sU3zcjLmJmvxrxkgFtueeLrU/AMINE+MOHAMED+ABOUSSALAH+EST+DOCTORANT+EN+MATHE%CC%81MATIQUES+APPLIQUE%CC%81ES.jpg?format=750w" alt="UN EXPERT EN MATHÉMATIQUES APPLIQUÉES ET EN INTELLIGENCE ARTIFICIELLE"/><figcaption>UN EXPERT EN MATHÉMATIQUES APPLIQUÉES ET EN INTELLIGENCE ARTIFICIELLE</figcaption></figure></div>
+
+
+
+<p>L’histoire de ce billet commence au moment où j’ai commencé à chercher sur le web une invention qui pourrait stimuler mon imagination, jusqu’à ce que je tombe sur les travaux d’un génie hors du commun au nom de <strong>Ibn Al-Haytham</strong> (Alhazen en latin).</p>
+
+
+
+<p>Tombé malheureusement dans l’oubli et ignoré par la majorité des gens, j’ai décidé de lui rendre hommage en racontant l’histoire de ses grandes inventions et découvertes.</p>
+
+
+
+<p>Né à Bassorat (Irak) en 965 et décédé au Caire (Egypte) en 1039-1041 (cette dernière date n’est pas connue exactement), <strong>Ibn Al-Haytham est un grand physicien, humaniste, l’un des plus grands ingénieurs que l’humanité ait produit et spécialiste de l’optique</strong>.</p>
+
+
+
+<p>Il est considéré par plusieurs historiens des sciences comme étant le premier véritable scientifique au sens moderne du terme. Il a vécu en Irak avant d’aller en Egypte suite à la demande du Sultan Fatimide Al Hâkim dans le but d’honorer sa cour et rivaliser avec la dynastie Abbasside de Bagdad et celle des Umayyades à Cordoue.</p>
+
+
+
+<div id="yui_3_17_2_1_1619258407397_118" class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://images.squarespace-cdn.com/content/v1/5e2f77eaa4a8dc3ec8601bf6/1594659511565-YOEH00L30XYV9I88Q728/ke17ZwdGBToddI8pDm48kG0-Xuo6s4gONnoYC61Sd4tZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxtMfWZMuE9_wZKUuZq6wm5Lwx7CPzaEiOSCwW0WXR-xQSQKLv_FHGn1jNSmhef8IQ/Al-Haytham.jpg?format=750w" alt="Ibn Al-Haytham" width="413" height="531"/><figcaption>Ibn Al-Haytham</figcaption></figure></div>
+
+
+
+<p>On lui donna tous les moyens et on lui confia la mission de maîtriser les inondations du Nil qui frappaient l’Egypte. Après une longue période d’exploration, il s’est rendu compte qu’il était impossible de réaliser ce que lui demandait le Sultan. Il préfèra dès lors simuler la folie plutôt que d’avouer l’échec de sa mission. Interné dans sa cellule, il se consacra à ses travaux de recherche dans plusieurs disciplines telles que l’astronomie, la géométrie, la physique et bien d’autres encore. Il est l’exemple même de ces savants arabes qui ont brillamment fait fructifier l’héritage local, grec et indien.</p>
+
+
+
+<p>La légende veut que par un beau jour ensoleillé, le gardien de sa cellule ait décidé de creuser un trou pour voir ce qu’Ibn Al-Haytham faisait, un rayon lumineux entra à travers ce petit trou. Ce fut le début de la démystification des lois fondamentales de l’optique et l’étude de la physiologie de l’œil.</p>
+
+
+
+<p>Avant de poursuivre l’aventure de ses découvertes, faisons un retour sur l’optique antique (celle de Ptolémée). Le modèle courant à l’époque se basait sur l’idée d’un rayon visuel (entité hypothétique faite pour voir) qui sortait du centre de l’œil sous forme d’un cône pour aller explorer l’extérieur et les milieux matériels.</p>
+
+
+
+<div id="yui_3_17_2_1_1619258407397_135" class="wp-block-image"><figure class="aligncenter"><img src="https://images.squarespace-cdn.com/content/v1/5e2f77eaa4a8dc3ec8601bf6/1594659724671-5XK27AWURLQYDMTQ7LL0/ke17ZwdGBToddI8pDm48kF0SazDjeSDQLbq7spNkhcRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF3F7BR0eIWQEkLf0j8K5USg1zKHwBvTRWn04T3-xwCnKBCk9PiNumCLaS1szgbAog/A%CC%80+la+de%CC%81couverte+d%27un+ge%CC%81nie+disparu%2C+IBN+Al-Haytham+par+Amine+Aboulassah.jpg?format=500w" alt="À la découverte d'un génie disparu, IBN Al-Haytham   par Amine Aboussalah"/><figcaption><strong><em>À la découverte d&#8217;un génie disparu, IBN Al-Haytham </em></strong>par Amine Aboussalah</figcaption></figure></div>
+
+
+
+<p>Le génie et la grande invention de Ibn Al-Haytham c’est d’avoir inversé le sens. Sauf qu’en inversant le sens, c’est à dire en affirmant que la lumière rentre dans l’œil, il lui a fallu inventer quelque chose qui n’était pas prise en compte en tant qu’objet physique à l’époque : la lumière.</p>
+
+
+
+<p>Il a dû montrer que la lumière rentrait dans l’œil, passait à travers un nerf optique et qu’il y avait une sorte d’image transmise par l’arrière du cristallin qui allait directement jusqu’à l’encéphale.</p>
+
+
+
+<p>Il avait compris qu’il se passait des choses à l’intérieur du corps, brisant ainsi la pensée antique où la vision était considérée comme un phénomène externe se faisant à l’extérieur du corps humain (via le rayon visuel). Il étudia par la suite les halos de lumière, l’arc-en-ciel et expliqua les déformations du soleil à l’horizon par la réfraction atmosphérique.</p>
+
+
+
+<div id="yui_3_17_2_1_1619258407397_152" class="wp-block-image"><figure class="aligncenter"><img src="https://images.squarespace-cdn.com/content/v1/5e2f77eaa4a8dc3ec8601bf6/1594659853210-POXEYWGAQX6T73CBFMC6/ke17ZwdGBToddI8pDm48kIS9yFRrsCPnaLj8RqHmreNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI0Nx_nZNQlNzyLZQjMg9G4eiyruSb-lRH2MoIyRC81jMKMshLAGzx4R3EDFOm1kBS/A%CC%80+la+de%CC%81couverte+d%27un+ge%CC%81nie+disparu%2C+IBN+Al-Haytham+par+Amine+Aboussalah.jpg?format=1000w" alt="À la découverte d'un génie disparu, IBN Al-Haytham   par Amine Aboussalah"/><figcaption><strong><em>À la découverte d&#8217;un génie disparu, IBN Al-Haytham </em></strong>par Amine Aboussalah</figcaption></figure></div>
+
+
+
+<p>On peut également dire qu’il est le précurseur de l’invention de la caméra et du cinéma. En effet, il est<strong> le premier à avoir mis en évidence le phénomène de ce que l’on appelle la persistance rétinienne</strong> qui est à l’origine de l’invention du cinéma. Enfin, Il est le premier scientifique à avoir considéré la méthode expérimentale comme base de la recherche scientifique.</p>
+
+
+
+<p>En dehors de l’optique, il a innové dans plusieurs autres disciplines. Selon le recensement effectué par plusieurs historiens des sciences notamment par <strong>Ahmed Djebbar</strong>, professeur de mathématiques et spécialiste de l’histoire des sciences, Ibn Al-Haytham aurait écrit 186 écrits, qui vont d’un écrit de deux pages à un écrit qui dépasse les mille pages.</p>
+
+
+
+<p>Ces écrits se répartissent entre des écrits scientifiques dans l’optique, la physique autre que l’optique, les mathématiques, l’astronomie et le reste des écrits dans la philosophie, la théologie spéculative et la musique.</p>
+
+
+
+<div id="yui_3_17_2_1_1619258407397_169" class="wp-block-image"><figure class="aligncenter"><img src="https://images.squarespace-cdn.com/content/v1/5e2f77eaa4a8dc3ec8601bf6/1594660013766-BOGSOFVN8JVGAIUFO3K4/ke17ZwdGBToddI8pDm48kElFfrMdeCrej--maRuyYEZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGTonBSAZAJXY0XMw6WW0Kzs7h5cVw5VqBhgHzIPhsO3CsuwZHgRYe0lhdhh0rC03U/A%CC%80+la+de%CC%81couverte+d%27un+ge%CC%81nie+disparu%2C+IBN+Al-Haytham+par+Amine+Aboussalah3.jpg?format=500w" alt="À la découverte d'un génie disparu, IBN Al-Haytham par Amine Aboussalah3.jpg"/></figure></div>
+
+
+
+<p>Dans son célèbre livre qui s’intitule : «&nbsp;les doutes sur Ptolémée », il serait le premier à critiquer d’une manière tout à fait originale les modèles planétaires de Ptolémée. Une copie de son livre a été trouvée en Andalousie entre les mains de Ibn Bâjja, Al Bitruji, le grand Averroès, inspirant par la suite quelques solutions géométriques au 13e siècle et développées grâce à Nasir Al-Din Al-Tusi et ses disciples comme Qutb al-Din al-Shirazi ou encore le grand syrien Ibn al-Shatir.</p>
+
+
+
+<p>Ce que la plupart d’entre nous ne savent pas, c’est que ces mêmes solutions géométriques des modèles planétaires vont se retrouver plus tard chez Copernic,&nbsp;plus particulièrement dans le modèle lunaire.</p>
+
+
+
+<p>On attribue également à Ibn Al Haytham le premier principe de la mécanique repris par Galilée : un corps en mouvement s’il ne subit pas une autre force, resterait toujours dans son mouvement inertiel. En outre et depuis seulement quelques années, de récentes recherches ont montré son apport en géométrie et en théorie des nombres. Il aurait développé un théorème considéré comme étant la prémisse de nombreux théorèmes établis à partir de la fin du 17e et 18e siècles, en particulier le théorème de Wilson et les travaux sur les carrés magiques.</p>
+
+
+
+<p>Je termine ce billet par une phrase de son autobiographie qui incarne une certaine intelligence hybride :</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>« Depuis mon enfance, je n’ai cessé de douter des croyances des gens, de l’attachement de chaque groupe d’entre eux à leurs convictions. Quant à moi, je doutais de l’ensemble, persuadé que la vérité est une et que les divergences à son sujet provenaient de la manière d’y aboutir. Lorsque j’ai eu la capacité d’appréhender les questions rationnelles, je me suis consacré à la recherche de la vérité et j’ai dirigé ma volonté vers l’acquisition des idées qui rapprochent de Dieu. J’ai désiré la vérité et la recherche de la science, je me suis convaincu qu’il n’y a pas chez les hommes de choses meilleures et qui rapprochent le plus de Dieu que ces deux là. »</em></p><cite><strong>— Ibn Al-Haytham</strong></cite></blockquote>
+
+
+
+<p><strong>Références :</strong></p>
+
+
+
+<p>http://www.ibnalhaytham.com/<br>http://www.ibnalhaytham.com/discover/who-was-ibn-al-haytham<br>http://1001inventions.com/ibnalhaytham<br>http://www-groups.dcs.st-and.ac.uk/history/Biographies/Al-Haytham.html<br>http://www.britannica.com/biography/Ibn-al-Haytham<br>http://lostislamichistory.com/ibn-al-haytham-the-first-scientist<br>http://www.light2015.org/Home/ScienceStories/1000-Years-of-Arabic-Optics.html<br>https://light2015blog.org/2015/05/11/ibn-al-haytham-optics-ii-life-and-achievements<br>Ibn Al-Haytham (Alhazen) &#8211; The First Scientist | Documentary (AR)<br>Science in a Golden Age &#8211; Optics: The True Nature of Light</p>
+<p>The post <a rel="nofollow" href="./../../../magna-eget-est-lorem-ipsum-dolor-sit/index.html">À la découverte d’un génie oublié Ibn Al-Haytham</a> appeared first on <a rel="nofollow" href="./../../../index.html">Amine Mohamed Aboussalah</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../magna-eget-est-lorem-ipsum-dolor-sit/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
